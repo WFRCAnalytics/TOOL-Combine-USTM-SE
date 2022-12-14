@@ -1,0 +1,122 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+1001,1,0.0,0.0,0.00,134.9,126.6,1.3,7.0,135.4,43.4,83.2,0.6,0.7,2.7,2.0,0.4,1.9,0.0,0.0,0.5,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1002,2,24.4,83.8,3.44,148.5,133.7,1.6,13.2,151.2,28.4,105.3,0.7,0.9,8.1,2.4,0.5,2.2,0.0,0.0,0.9,1.8,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1003,3,54.9,264.4,4.82,44.2,35.0,0.4,8.8,72.4,0.4,34.6,0.2,0.2,7.6,0.6,0.1,0.5,0.0,0.0,24.2,4.1,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1004,4,6.4,23.2,3.61,0.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.9,0.5,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1005,5,83.8,272.3,3.25,629.3,244.7,103.3,281.3,644.5,126.1,118.5,2.7,100.7,1.3,66.0,94.9,119.1,0.0,0.0,8.8,6.3,0,0,0,0,58867,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1006,6,118.9,451.6,3.80,96.2,32.8,13.8,49.6,160.9,28.5,4.4,1.5,12.2,6.3,5.5,4.2,33.6,0.0,0.0,55.8,8.9,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1007,7,202.5,599.6,2.96,294.6,35.3,3.0,256.3,312.1,20.7,14.6,1.3,1.7,14.8,133.8,4.9,102.9,0.0,0.0,2.3,15.2,0,0,0,0,58867,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1008,8,142.1,408.4,2.87,191.5,57.4,2.2,131.9,204.5,48.0,9.5,1.0,1.2,0.5,57.8,0.7,72.9,0.0,0.0,2.3,10.6,0,0,0,0,51326,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1009,9,115.5,378.2,3.27,16.3,4.5,3.4,8.4,27.8,2.0,2.5,2.3,1.2,0.5,3.1,1.8,3.0,0.0,0.0,2.8,8.7,0,0,0,0,45757,493,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1010,10,86.3,274.8,3.18,122.5,16.7,66.4,39.5,134.6,9.8,6.8,13.9,52.5,20.5,8.7,2.4,7.9,0.0,0.0,5.6,6.5,0,0,0,0,58602,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1011,11,231.4,455.1,1.97,444.3,59.4,102.4,282.5,466.3,35.2,24.2,98.0,4.4,15.4,127.8,11.1,128.2,0.0,0.0,4.7,17.3,0,0,0,0,50415,0,225,243,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1012,12,43.4,163.8,3.77,12.3,3.2,1.4,7.7,26.6,1.4,1.8,0.6,0.8,2.9,2.2,0.4,2.1,9.1,0.0,1.9,3.3,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1013,13,37.3,145.7,3.90,0.0,0.0,0.0,0.0,9.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,2.8,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1014,14,2.6,8.2,3.18,82.8,66.0,0.8,16.1,84.0,27.6,38.4,0.3,0.5,0.2,1.2,0.2,14.4,0.0,0.0,0.9,0.2,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1015,15,26.8,61.7,2.30,28.5,14.3,3.1,11.0,32.3,6.5,7.8,1.4,1.8,0.7,4.9,1.0,4.5,0.0,0.0,1.9,2.0,0,0,0,0,67011,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1016,16,0.0,0.0,0.00,194.1,18.7,2.2,173.2,194.6,11.2,7.5,1.0,1.3,6.1,134.8,0.7,31.6,0.0,0.0,0.5,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1017,17,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,367,Beaver,Beaver
+1018,18,3.2,10.5,3.22,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.2,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1019,19,7.2,44.1,6.14,0.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.9,0.5,0,0,0,0,70102,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1020,20,17.1,56.4,3.29,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.3,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1021,21,32.6,147.4,4.52,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,2.4,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1022,22,4.0,8.4,2.13,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1023,23,9.4,29.1,3.10,0.0,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.7,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1024,24,5.3,21.3,4.04,0.0,0.0,0.0,0.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,0.0,1.9,0.4,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1025,25,15.8,32.5,2.06,0.0,0.0,0.0,0.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,1.2,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1026,26,9.0,23.6,2.62,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.7,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1027,27,2.0,6.4,3.22,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1028,28,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1029,29,3.4,7.2,2.13,0.0,0.0,0.0,0.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.5,0.3,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1030,30,10.7,33.3,3.11,0.0,0.0,0.0,0.0,5.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,1.4,0.8,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1031,31,42.8,95.5,2.23,0.0,0.0,0.0,0.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,3.2,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1032,32,51.2,157.9,3.08,7.2,0.2,0.1,7.0,18.4,0.1,0.1,0.0,0.0,2.5,0.1,0.0,4.4,0.0,0.0,7.4,3.8,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1033,33,7.5,17.2,2.29,0.0,0.0,0.0,0.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0.0,0.9,0.6,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1034,34,36.3,85.0,2.34,29.6,1.1,0.5,28.0,34.6,0.5,0.6,0.2,0.3,0.1,0.7,0.1,27.0,0.0,0.0,2.3,2.7,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1035,35,12.7,20.0,1.58,0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0.9,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1036,36,20.9,38.0,1.82,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.9,1.6,0,0,0,0,67775,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1037,37,1.0,3.1,3.22,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1038,38,5.1,23.3,4.54,0.0,0.0,0.0,0.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.5,0.4,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1039,39,16.9,50.6,2.99,0.0,0.0,0.0,0.0,8.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,4.2,1.3,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1040,40,1.2,2.7,2.13,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.1,0,0,0,0,45757,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1041,41,4.1,13.3,3.22,0.0,0.0,0.0,0.0,5.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,1.9,0.3,0,0,0,0,68842,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1042,42,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1043,43,12.8,17.5,1.37,0.0,0.0,0.0,0.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0.0,0.5,1.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1044,44,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1045,45,0.0,0.0,0.00,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1046,46,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,360,Beaver Area,Balance of Beaver
+1047,47,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1048,48,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1049,49,1.1,3.6,3.22,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1050,50,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1051,51,7.9,15.6,1.97,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0.6,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1052,52,26.1,35.6,1.36,4.4,0.0,0.0,4.4,6.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.4,0.0,0.0,0.5,2.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1053,53,9.6,23.6,2.46,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1054,54,8.7,28.1,3.22,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1055,55,17.4,54.1,3.10,6.0,0.5,0.2,5.2,7.7,0.2,0.3,0.1,0.1,0.0,0.3,0.1,4.8,0.0,0.0,0.5,1.3,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1056,56,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1057,57,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1058,58,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1059,59,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,72807,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1060,60,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1061,61,1.1,1.3,1.20,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,1,Eastern Beaver County,346,Balance of Beaver,Balance of Beaver
+1062,62,178.6,590.1,3.30,61.1,2.7,14.9,43.5,85.2,1.2,1.5,0.5,14.3,0.3,40.9,0.7,1.7,0.0,0.0,10.7,13.4,0,0,0,0,48909,0,102,110,0,1,BEAVER,1,Beaver County,2,Central Beaver County,359,Milford,Milford
+1063,63,79.1,267.3,3.38,18.3,9.8,0.8,7.7,448.3,8.8,1.0,0.4,0.5,0.2,1.3,0.3,6.0,412.0,0.0,12.1,5.9,0,0,0,0,48999,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,359,Milford,Milford
+1064,64,36.5,145.6,3.99,115.4,50.6,0.6,64.2,139.5,0.6,50.0,0.3,0.3,0.1,63.1,0.2,0.8,0.0,0.0,21.4,2.7,0,0,0,0,66860,226,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,359,Milford,Milford
+1065,65,225.0,590.9,2.63,105.0,45.8,8.7,50.5,127.8,24.1,21.8,0.5,8.1,0.3,14.1,0.4,35.7,0.0,0.0,6.0,16.8,0,0,0,0,48007,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,359,Milford,Milford
+1066,66,1.0,3.1,3.21,95.5,6.2,79.5,9.8,96.1,2.8,3.4,68.0,11.6,0.6,4.3,0.9,4.0,0.0,0.0,0.5,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,359,Milford,Milford
+1067,67,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1068,68,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1069,69,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1070,70,1.2,5.1,4.32,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1071,71,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1072,72,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1073,73,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1074,74,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1075,75,3.8,19.7,5.14,0.0,0.0,0.0,0.0,309.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,309.0,0.0,0.3,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1076,76,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1077,77,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1078,78,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1079,79,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1080,80,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1081,81,9.3,30.1,3.22,0.0,0.0,0.0,0.0,9.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,2.3,0.7,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1082,82,2.2,10.8,4.86,0.0,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.5,0.2,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1083,83,4.1,6.5,1.58,0.0,0.0,0.0,0.0,7.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.5,0.3,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1084,84,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1085,85,4.7,7.5,1.58,0.0,0.0,0.0,0.0,8.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.9,0.4,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1086,86,2.7,14.8,5.41,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.9,0.2,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1087,87,22.8,70.2,3.08,0.0,0.0,0.0,0.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.9,1.7,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1088,88,6.9,38.8,5.59,0.0,0.0,0.0,0.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,1.4,0.5,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1089,89,5.9,16.8,2.86,0.0,0.0,0.0,0.0,7.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.4,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1090,90,2.1,6.9,3.22,0.0,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.5,0.2,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1091,91,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1092,92,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1093,93,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1094,94,6.4,20.7,3.22,0.0,0.0,0.0,0.0,8.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.9,0.0,0.9,0.5,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,354,Milford Area,Balance of Beaver
+1095,95,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1096,96,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1097,97,7.5,40.5,5.36,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.9,0.6,0,0,0,0,54818,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1098,98,109.6,344.0,3.14,78.4,12.1,3.3,63.0,90.8,10.8,1.3,0.5,2.8,0.2,61.0,0.3,1.5,0.0,0.0,4.2,8.2,0,0,0,0,54818,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1099,99,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.0,0,0,0,0,54818,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1100,100,72.4,191.5,2.65,1.7,0.1,0.0,1.6,10.9,0.0,0.0,0.0,0.0,0.0,0.1,1.5,0.1,0.0,0.0,3.7,5.4,5,0,0,0,54818,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1101,101,92.0,334.1,3.63,14.7,3.5,10.6,0.6,34.2,3.3,0.2,0.1,10.6,0.0,0.3,0.1,0.2,0.0,0.0,12.6,6.9,0,0,0,0,56907,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1102,102,4.0,12.6,3.20,8.7,1.2,5.6,1.9,15.0,0.5,0.7,0.2,5.3,0.1,0.8,0.2,0.8,0.0,0.0,6.0,0.3,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1103,103,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,54818,105,20,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1104,104,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,369,Minersville,Minersville
+1105,105,2.1,11.6,5.41,0.0,0.0,0.0,0.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.5,0.2,0,0,0,0,54818,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,371,Minersville Area,Balance of Beaver
+1106,106,5.4,17.3,3.22,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.4,0,0,0,0,57226,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,371,Minersville Area,Balance of Beaver
+1107,107,1.1,3.6,3.22,0.0,0.0,0.0,0.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.0,0.0,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,371,Minersville Area,Balance of Beaver
+1108,108,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1109,109,0.0,0.0,0.00,0.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1110,110,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1111,111,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1112,112,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1113,113,0.0,0.0,0.00,0.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1114,114,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1115,115,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1116,116,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1117,117,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1118,118,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,2,Central Beaver County,346,Balance of Beaver,Balance of Beaver
+1119,119,2.0,9.6,4.86,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,3,Western Beaver County,346,Balance of Beaver,Balance of Beaver
+1120,120,1.0,3.3,3.22,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,3,Western Beaver County,346,Balance of Beaver,Balance of Beaver
+1121,121,1.0,3.3,3.22,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,66860,0,0,0,0,1,BEAVER,1,Beaver County,3,Western Beaver County,346,Balance of Beaver,Balance of Beaver

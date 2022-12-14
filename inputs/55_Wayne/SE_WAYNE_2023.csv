@@ -1,0 +1,93 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+55001,1,23.2,66.4,2.86,39.7,23.9,0.9,14.9,60.7,11.4,12.5,0.3,0.5,1.0,3.9,3.9,6.1,0.0,0.0,19.0,2.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,362,Loa,Loa
+55002,2,50.5,132.2,2.62,48.1,31.5,0.4,16.3,58.3,29.8,1.7,0.1,0.2,0.4,11.6,1.6,2.6,0.0,0.0,5.9,4.3,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,362,Loa,Loa
+55003,3,54.7,136.1,2.49,163.0,6.0,10.9,146.2,179.6,2.0,3.9,2.7,8.2,11.3,95.3,3.8,35.7,0.0,0.0,11.9,4.7,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,362,Loa,Loa
+55004,4,37.7,95.7,2.54,153.2,55.0,7.2,91.0,164.7,53.7,1.3,0.1,7.1,0.3,27.1,1.2,62.3,0.0,0.0,8.3,3.2,0,0,0,0,45744,181,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,362,Loa,Loa
+55005,5,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55006,6,30.4,61.7,2.03,5.5,0.0,5.5,0.0,12.9,0.0,0.0,5.5,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,2.6,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55007,7,9.8,39.9,4.06,3.3,0.0,0.0,3.3,10.1,0.0,0.0,0.0,0.0,3.3,0.0,0.0,0.0,3.6,0.0,2.4,0.8,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55008,8,24.7,47.0,1.90,0.0,0.0,0.0,0.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,2.1,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55009,9,7.9,48.4,6.12,0.0,0.0,0.0,0.0,6.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,2.4,0.7,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55010,10,10.3,22.3,2.17,0.0,0.0,0.0,0.0,23.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.6,0.0,5.9,0.9,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55011,11,11.0,19.6,1.78,0.0,0.0,0.0,0.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,4.7,0.9,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55012,12,1.0,4.3,4.16,0.0,0.0,0.0,0.0,4.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.1,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55013,13,4.8,6.9,1.44,0.0,0.0,0.0,0.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,0.0,0.4,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55014,14,6.1,23.2,3.81,10.9,0.0,10.9,0.0,17.4,0.0,0.0,10.9,0.0,0.0,0.0,0.0,0.0,3.6,0.0,2.4,0.5,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55015,15,5.0,19.9,3.95,70.2,0.5,0.1,69.7,76.6,0.2,0.3,0.0,0.0,0.1,0.3,68.8,0.5,3.6,0.0,2.4,0.4,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55016,16,5.1,20.3,3.95,5.3,1.2,1.3,2.9,10.5,0.4,0.8,0.1,1.2,0.2,0.7,0.8,1.2,0.0,0.0,4.7,0.4,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55017,17,1.0,4.3,4.16,0.0,0.0,0.0,0.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,1.2,0.1,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55018,18,8.1,19.8,2.46,0.0,0.0,0.0,0.0,4.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.7,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55019,19,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55020,20,13.9,54.8,3.94,0.0,0.0,0.0,0.0,16.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.8,0.0,4.7,1.2,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55021,21,13.0,37.2,2.87,0.0,0.0,0.0,0.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,1.1,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55022,22,7.1,14.7,2.06,0.0,0.0,0.0,0.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.6,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55023,23,1.0,3.2,3.11,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55024,24,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55025,25,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,355,Loa Area,Balance of Wayne
+55026,26,23.4,59.1,2.52,3.9,0.2,0.0,3.7,11.9,0.1,0.1,0.0,0.0,3.4,0.1,0.1,0.2,0.0,0.0,5.9,2.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,361,Lyman,Lyman
+55027,27,25.9,75.3,2.90,2.9,0.1,1.0,1.8,7.5,0.0,0.1,0.0,1.0,0.0,0.1,1.6,0.1,0.0,0.0,2.4,2.2,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,361,Lyman,Lyman
+55028,28,6.0,12.5,2.08,0.0,0.0,0.0,0.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4,0.5,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,361,Lyman,Lyman
+55029,29,22.9,47.7,2.08,0.0,0.0,0.0,0.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,2.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,361,Lyman,Lyman
+55030,30,17.6,54.6,3.11,3.3,0.0,0.0,3.3,8.4,0.0,0.0,0.0,0.0,3.3,0.0,0.0,0.0,0.0,0.0,3.6,1.5,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55031,31,5.2,15.0,2.90,0.0,0.0,0.0,0.0,11.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,3.6,0.4,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55032,32,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55033,33,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55034,34,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55035,35,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55036,36,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55037,37,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55038,38,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55039,39,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55040,40,1.0,1.2,1.20,0.0,0.0,0.0,0.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.1,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55041,41,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55042,42,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55043,43,3.0,7.3,2.41,0.0,0.0,0.0,0.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.3,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,357,Lyman Area,Balance of Wayne
+55044,44,2.4,7.5,3.14,0.0,0.0,0.0,0.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,365,Bicknell,Bicknell
+55045,45,49.1,78.3,1.59,114.6,0.8,5.1,108.6,119.9,0.3,0.6,3.8,1.3,0.1,28.6,79.0,0.8,0.0,0.0,1.2,4.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,365,Bicknell,Bicknell
+55046,46,73.3,207.6,2.83,274.7,21.6,7.9,245.1,287.4,2.4,19.2,0.1,7.8,29.0,51.7,11.8,152.6,0.0,0.5,5.9,6.3,0,0,0,0,43183,0,108,139,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,365,Bicknell,Bicknell
+55047,47,13.4,30.2,2.26,80.6,37.1,5.9,37.6,113.8,27.0,10.2,0.8,5.1,2.5,9.8,9.9,15.4,0.0,0.0,32.1,1.1,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,365,Bicknell,Bicknell
+55048,48,1.9,4.9,2.59,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55049,49,7.8,26.2,3.37,0.0,0.0,0.0,0.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.7,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55050,50,2.0,5.1,2.59,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55051,51,3.0,7.2,2.41,0.0,0.0,0.0,0.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55052,52,3.9,6.0,1.54,0.0,0.0,0.0,0.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55053,53,0.9,1.1,1.20,0.0,0.0,0.0,0.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.1,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55054,54,1.0,2.1,2.06,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.1,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,364,Bicknell Area,Balance of Wayne
+55055,55,8.5,13.6,1.60,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55056,56,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55057,57,16.3,25.6,1.57,0.0,0.0,0.0,0.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,1.4,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55058,58,1.9,4.9,2.59,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55059,59,16.1,41.1,2.56,0.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,0,0,0,0,45744,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55060,60,3.8,9.9,2.59,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,1,Northwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55061,61,7.6,18.0,2.35,0.0,0.0,0.0,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.7,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55062,62,4.8,14.2,2.93,0.0,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.4,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55063,63,8.7,15.0,1.73,0.0,0.0,0.0,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.7,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55064,64,33.0,72.9,2.21,23.7,20.2,0.2,3.3,33.6,0.5,19.7,0.1,0.1,0.2,0.9,0.9,1.3,0.0,0.0,7.1,2.8,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55065,65,27.3,58.9,2.16,28.7,9.5,0.2,19.1,38.2,0.4,9.1,0.1,0.1,0.2,10.7,0.8,7.4,0.0,0.0,7.1,2.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55066,66,3.8,5.9,1.56,14.4,13.7,0.0,0.7,14.7,0.1,13.6,0.0,0.0,0.0,0.2,0.2,0.3,0.0,0.0,0.0,0.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55067,67,8.6,11.8,1.38,0.8,0.1,0.6,0.2,2.7,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.1,0.0,0.0,1.2,0.7,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55068,68,6.7,12.0,1.78,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.6,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,366,Torrey,Torrey
+55069,69,15.1,23.3,1.54,112.8,80.1,1.4,31.4,124.8,23.9,56.1,0.5,0.9,8.9,6.3,6.3,9.8,0.0,0.0,10.7,1.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55070,70,8.0,19.6,2.46,36.7,20.7,0.9,15.2,48.1,2.1,18.5,0.3,0.5,1.0,4.0,4.0,6.2,0.0,0.0,10.7,0.7,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55071,71,3.8,14.8,3.90,28.7,28.1,0.0,0.6,32.6,0.1,28.0,0.0,0.0,0.0,0.1,0.1,0.2,3.6,0.0,0.0,0.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55072,72,7.6,19.7,2.59,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55073,73,10.8,17.2,1.59,0.0,0.0,0.0,0.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,2.4,0.9,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55074,74,14.2,31.2,2.20,10.0,2.9,0.0,7.1,11.2,2.9,0.0,0.0,0.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55075,75,5.8,14.0,2.41,0.0,0.0,0.0,0.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.2,0.5,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55076,76,3.8,7.9,2.06,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55077,77,46.8,73.5,1.57,4.9,1.1,1.3,2.6,14.4,0.4,0.7,0.1,1.2,0.2,0.7,0.7,1.1,0.7,0.0,4.7,4.0,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55078,78,4.1,9.5,2.33,0.0,0.0,0.0,0.0,6.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,2.4,0.4,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55079,79,20.9,42.1,2.01,13.8,0.4,0.1,13.4,30.0,0.1,0.2,0.0,0.0,0.1,0.2,0.2,12.8,7.3,0.0,7.1,1.8,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55080,80,17.0,31.1,1.83,26.0,25.2,0.0,0.7,31.1,0.1,25.1,0.0,0.0,0.0,0.2,0.2,0.3,3.6,0.0,0.0,1.5,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,368,Torrey Area,Balance of Wayne
+55081,81,18.9,30.1,1.59,18.4,15.3,0.2,2.9,21.2,0.4,14.9,0.1,0.1,0.2,0.8,0.8,1.2,0.0,0.0,1.2,1.6,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55082,82,28.3,33.9,1.20,0.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4,0,0,0,0,43183,0,0,0,0,55,WAYNE,1,West Wayne County,2,Southwest Wayne County,351,Balance of Wayne,Balance of Wayne
+55083,83,6.3,15.4,2.44,0.0,0.0,0.0,0.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,4.7,0.5,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,363,Hanksville,Hanksville
+55084,84,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,4,Central Wayne County,363,Hanksville,Hanksville
+55085,85,11.3,20.4,1.80,37.0,24.5,0.2,12.2,46.3,0.6,23.9,0.1,0.1,0.3,9.2,1.1,1.7,0.0,0.0,8.3,1.0,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,363,Hanksville,Hanksville
+55086,86,69.3,132.6,1.91,58.8,31.7,1.5,25.6,69.9,6.6,25.1,0.1,1.4,0.4,21.5,1.4,2.2,0.0,0.5,4.7,5.9,0,0,0,0,43183,8,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,363,Hanksville,Hanksville
+55087,87,0.9,2.0,2.09,1.6,1.2,0.0,0.4,1.7,1.1,0.1,0.0,0.0,0.0,0.1,0.1,0.1,0.0,0.0,0.0,0.1,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,363,Hanksville,Hanksville
+55088,88,0.0,0.0,0.00,27.0,27.0,0.0,0.0,27.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,45744,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,351,Balance of Wayne,Balance of Wayne
+55089,89,2.8,4.9,1.71,1.2,0.0,1.2,0.0,1.4,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,351,Balance of Wayne,Balance of Wayne
+55090,90,10.4,25.5,2.45,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,351,Balance of Wayne,Balance of Wayne
+55091,91,33.1,85.2,2.57,157.3,25.6,0.2,131.5,161.3,0.4,25.2,0.1,0.1,0.2,0.8,0.8,129.8,0.0,0.0,1.2,2.8,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,3,Central Wayne County,351,Balance of Wayne,Balance of Wayne
+55092,92,12.3,20.4,1.66,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,0,0,0,43183,0,0,0,0,55,WAYNE,2,East Wayne County,4,Eastern Wayne County,351,Balance of Wayne,Balance of Wayne

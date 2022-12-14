@@ -1,0 +1,110 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+25001,1,1.9,7.0,3.61,1.4,0.0,1.4,0.0,6.2,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,416,Alton,Alton
+25002,2,17.5,46.0,2.63,0.0,0.0,0.0,0.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,1.0,1.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,416,Alton,Alton
+25003,3,10.7,31.0,2.91,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.6,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,416,Alton,Alton
+25004,4,7.8,31.0,3.99,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.5,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,416,Alton,Alton
+25005,5,1.0,1.0,1.03,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,416,Alton,Alton
+25006,6,0.0,0.0,0.00,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25007,7,1.9,5.0,2.58,4.0,0.0,0.0,4.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.7,0.0,0.3,0.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25008,8,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25009,9,0.0,0.0,0.00,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25010,10,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25011,11,0.0,0.0,0.00,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25012,12,0.0,0.0,0.00,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.6,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25013,13,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25014,14,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,415,Alton Area,Balance of Kane
+25015,15,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25016,16,20.4,50.0,2.45,4.1,0.0,0.0,4.1,6.6,0.0,0.0,0.0,0.0,4.1,0.0,0.0,0.0,0.0,0.0,1.4,1.2,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25017,17,5.8,21.0,3.61,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.4,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25018,18,4.9,8.0,1.65,0.0,0.0,0.0,0.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.3,0.3,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25019,19,58.2,192.2,3.30,34.7,18.5,2.7,13.5,42.2,18.5,0.0,0.0,2.7,0.0,6.0,0.0,7.5,0.0,0.0,4.1,3.5,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25020,20,18.4,40.0,2.17,172.6,7.7,0.0,164.9,191.4,0.0,7.7,0.0,0.0,0.0,0.0,0.0,164.9,14.3,0.0,3.4,1.1,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25021,21,2.9,7.0,2.41,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.2,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,417,Glendale,Glendale
+25022,22,10.7,32.0,3.00,2.6,2.6,0.0,0.0,8.6,0.0,2.6,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.7,0.6,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25023,23,1.0,2.0,2.06,8.3,8.3,0.0,0.0,8.4,8.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25024,24,59.2,146.1,2.47,127.5,5.5,0.0,122.0,136.2,5.5,0.0,0.0,0.0,0.0,103.1,0.0,19.0,0.0,0.0,5.1,3.6,0,0,0,0,65121,0,69,73,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25025,25,2.9,7.0,2.41,1.2,1.2,0.0,0.0,1.7,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.2,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25026,26,82.5,250.2,3.03,22.4,8.8,2.6,10.9,42.4,5.3,3.5,0.0,2.6,0.0,0.0,0.0,10.9,9.6,0.0,5.4,5.0,0,0,0,0,65121,165,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25027,27,8.7,28.0,3.21,8.5,0.0,2.3,6.2,14.4,0.0,0.0,0.0,2.3,0.0,0.0,0.0,6.2,4.7,0.0,0.7,0.5,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25028,28,15.5,45.0,2.90,0.0,0.0,0.0,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9,0,0,0,0,60638,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25029,29,17.5,69.1,3.95,3.9,3.9,0.0,0.0,10.7,0.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,1.0,1.1,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25030,30,0.0,0.0,0.00,137.5,137.5,0.0,0.0,139.2,29.5,108.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25031,31,2.9,12.0,4.12,10.4,10.4,0.0,0.0,10.9,0.0,10.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.2,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,420,Orderville,Orderville
+25032,32,54.4,86.1,1.58,36.9,28.8,0.0,8.1,43.9,10.6,18.2,0.0,0.0,0.0,0.0,0.0,8.1,0.0,0.0,3.7,3.3,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25033,33,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25034,34,15.5,53.0,3.41,5.9,5.9,0.0,0.0,7.9,5.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25035,35,57.3,139.1,2.43,24.7,24.7,0.0,0.0,31.8,0.0,24.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,3.4,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25036,36,9.7,28.0,2.89,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.6,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25037,37,17.5,29.0,1.66,0.0,0.0,0.0,0.0,2.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25038,38,64.1,155.2,2.42,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.1,3.9,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25039,39,5.8,12.0,2.06,0.9,0.0,0.9,0.0,1.7,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.4,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25040,40,1.0,2.0,2.06,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25041,41,3.9,6.0,1.55,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.2,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25042,42,1.0,3.0,3.09,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25043,43,9.7,26.0,2.68,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.6,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25044,44,1.9,5.0,2.58,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,1,Northwest Kane County,412,Balance of Kane,Balance of Kane
+25045,45,4.9,12.0,2.47,1.5,0.0,0.0,1.5,2.1,0.0,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.3,0.3,0,0,0,0,37393,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25046,46,166.0,293.2,1.77,780.0,256.8,22.5,500.7,809.6,43.8,213.0,0.0,22.5,15.3,361.7,0.0,123.7,0.0,0.0,19.6,10.0,0,0,0,0,34482,457,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25047,47,128.1,354.3,2.76,308.1,0.0,0.0,308.1,327.6,0.0,0.0,0.0,0.0,0.0,68.1,80.9,159.0,0.0,0.0,11.8,7.7,0,0,0,0,46795,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25048,48,77.7,203.2,2.62,57.2,0.0,0.0,57.2,67.3,0.0,0.0,0.0,0.0,44.2,0.0,0.0,13.0,0.0,0.0,5.4,4.7,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25049,49,43.7,93.1,2.13,0.6,0.0,0.0,0.6,5.9,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,2.7,2.6,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25050,50,49.5,164.1,3.32,4.6,0.0,0.0,4.6,10.7,0.0,0.0,0.0,0.0,3.6,0.0,1.0,0.0,0.0,0.0,3.0,3.0,0,0,0,0,41463,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25051,51,83.5,247.2,2.96,755.6,437.2,133.4,185.1,774.8,157.6,279.5,115.6,17.8,39.3,0.0,11.3,134.5,0.0,0.0,14.2,5.0,0,0,0,0,46554,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25052,52,156.3,335.3,2.15,556.6,260.3,0.0,296.2,582.5,57.2,203.1,0.0,0.0,59.4,17.5,0.7,218.6,0.0,0.0,16.6,9.4,0,0,0,0,43514,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25053,53,35.9,106.1,2.95,133.7,116.2,0.0,17.5,139.6,17.6,98.5,0.0,0.0,0.0,0.0,1.3,16.2,0.0,0.0,3.7,2.2,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25054,54,85.4,254.2,2.98,35.1,35.1,0.0,0.0,49.7,0.0,35.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.8,5.7,5.1,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25055,55,48.5,158.1,3.26,0.0,0.0,0.0,0.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.9,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25056,56,61.2,158.1,2.59,62.8,2.2,0.0,60.6,75.6,2.2,0.0,0.0,0.0,2.2,57.1,1.3,0.0,4.7,0.0,4.4,3.7,0,0,0,0,52955,0,152,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25057,57,70.9,166.1,2.34,217.3,33.7,23.0,160.6,228.7,0.0,33.7,23.0,0.0,0.0,68.5,2.5,89.6,0.0,0.0,7.1,4.3,0,0,0,0,52955,0,0,270,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25058,58,120.4,297.2,2.47,345.5,189.3,57.1,99.1,365.4,106.6,82.7,0.0,57.1,27.5,3.0,1.2,67.3,0.0,1.3,11.5,7.2,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25059,59,33.0,105.1,3.18,66.8,0.0,40.9,25.9,71.5,0.0,0.0,0.0,40.9,15.2,0.0,0.0,10.7,0.0,0.0,2.7,2.0,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25060,60,54.4,135.1,2.49,55.9,7.0,0.0,48.9,63.3,7.0,0.0,0.0,0.0,0.0,0.0,0.7,48.2,0.0,0.0,4.1,3.3,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25061,61,15.5,35.0,2.26,0.0,0.0,0.0,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.9,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25062,62,0.0,0.0,0.00,6.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25063,63,13.6,69.1,5.08,29.8,0.0,0.0,29.8,41.6,0.0,0.0,0.0,0.0,0.0,0.0,1.9,27.8,9.6,0.0,1.4,0.8,0,0,0,0,44825,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25064,64,21.4,87.1,4.08,4.0,0.0,0.0,4.0,16.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,9.6,0.0,1.4,1.3,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25065,65,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25066,66,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25067,67,235.9,612.5,2.60,47.9,0.0,0.0,47.9,77.3,0.0,0.0,0.0,0.0,0.0,0.0,21.9,26.1,0.0,0.0,15.2,14.2,0,0,0,0,46129,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25068,68,245.6,533.4,2.17,10.1,0.9,6.0,3.1,40.1,0.9,0.0,3.7,2.3,0.0,0.0,0.0,3.1,0.0,0.0,15.2,14.8,0,0,0,0,44825,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25069,69,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0,0,0,0,44825,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25070,70,3.9,10.0,2.58,4.0,0.0,0.0,4.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.3,0.2,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25071,71,1.9,7.0,3.61,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25072,72,9.7,27.0,2.78,1.4,0.0,1.4,0.0,2.7,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.6,0,0,0,0,44825,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25073,73,2.9,7.0,2.41,20.1,0.0,0.0,20.1,20.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.1,0.0,0.0,0.3,0.2,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25074,74,1.0,2.0,2.06,47.9,6.1,0.0,41.8,53.4,6.1,0.0,0.0,0.0,0.0,4.2,37.6,0.0,4.7,0.0,0.7,0.1,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25075,75,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25076,76,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25077,77,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0,0,0,0,44825,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25078,78,1.9,10.0,5.15,7.5,0.0,0.0,7.5,7.9,0.0,0.0,0.0,0.0,0.0,7.5,0.0,0.0,0.0,0.0,0.3,0.1,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25079,79,1.0,5.0,5.15,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,435,Kanab,Kanab
+25080,80,2.9,9.0,3.09,116.6,0.0,0.0,116.6,123.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,116.6,4.7,0.0,1.7,0.2,0,0,0,0,34482,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25081,81,24.3,67.1,2.76,6.0,0.0,5.0,1.0,9.1,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,1.7,1.5,0,0,0,0,44544,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25082,82,5.8,22.0,3.78,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.4,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25083,83,69.9,124.1,1.78,20.5,0.0,0.0,20.5,29.4,0.0,0.0,0.0,0.0,20.5,0.0,0.0,0.0,0.0,0.0,4.7,4.2,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25084,84,54.4,132.1,2.43,0.0,0.0,0.0,0.0,6.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,3.3,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25085,85,35.9,83.1,2.31,61.4,0.0,0.0,61.4,66.6,0.0,0.0,0.0,0.0,54.5,0.0,0.0,6.9,0.0,0.0,3.0,2.2,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25086,86,18.4,33.0,1.79,40.6,0.0,4.7,35.9,43.4,0.0,0.0,4.7,0.0,0.0,0.0,0.0,35.9,0.0,0.0,1.7,1.1,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25087,87,40.8,76.1,1.87,8.2,0.0,0.0,8.2,13.4,0.0,0.0,0.0,0.0,8.2,0.0,0.0,0.0,0.0,0.0,2.7,2.5,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,433,Kanab Area,Balance of Kane
+25088,88,5.8,13.0,2.23,0.0,0.0,0.0,0.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.3,0.4,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25089,89,4.9,21.0,4.33,0.0,0.0,0.0,0.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.3,0.3,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25090,90,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25091,91,7.8,25.0,3.22,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.5,0,0,0,0,65121,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25092,92,3.9,9.0,2.32,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.2,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25093,93,7.8,24.0,3.09,169.4,108.8,0.0,60.6,172.6,0.0,108.8,0.0,0.0,0.0,0.0,0.0,60.6,0.0,0.0,2.7,0.5,0,0,0,0,34342,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25094,94,12.6,23.0,1.82,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.8,0,0,0,0,47095,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25095,95,4.9,22.0,4.54,20.1,0.0,0.0,20.1,21.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.1,0.0,0.0,0.7,0.3,0,0,0,0,52955,0,0,0,0,25,KANE,1,West Kane County,2,Southwest Kane County,412,Balance of Kane,Balance of Kane
+25096,96,186.4,332.3,1.78,97.4,22.7,0.0,74.8,121.5,0.0,22.7,0.0,0.0,0.0,31.5,0.0,43.3,0.0,0.0,12.8,11.2,0,0,0,0,42320,39,0,0,0,25,KANE,2,East Kane County,3,Big Water Area,432,Big Water,Big Water
+25097,97,33.0,95.1,2.88,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0,0,0,0,42320,0,0,0,0,25,KANE,2,East Kane County,3,Big Water Area,432,Big Water,Big Water
+25098,98,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,42320,0,0,0,0,25,KANE,2,East Kane County,3,Big Water Area,434,Big Water Area,Balance of Kane
+25099,99,72.8,131.1,1.80,4.0,0.0,0.0,4.0,12.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.4,4.4,0,0,0,0,42320,0,0,0,0,25,KANE,2,East Kane County,3,Big Water Area,412,Balance of Kane,Balance of Kane
+25100,100,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,42320,0,0,0,0,25,KANE,2,East Kane County,3,Big Water Area,412,Balance of Kane,Balance of Kane
+25101,101,0.0,0.0,0.00,10.4,0.0,0.0,10.4,10.4,0.0,0.0,0.0,0.0,0.0,10.4,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,4,Central Kane County,412,Balance of Kane,Balance of Kane
+25102,102,7.8,21.0,2.71,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.5,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,4,Central Kane County,412,Balance of Kane,Balance of Kane
+25103,103,12.6,51.0,4.04,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.8,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,4,Central Kane County,412,Balance of Kane,Balance of Kane
+25104,104,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,42320,0,0,0,0,25,KANE,2,East Kane County,4,Central Kane County,412,Balance of Kane,Balance of Kane
+25105,105,26.2,46.0,1.76,0.0,0.0,0.0,0.0,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,1.6,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,4,Central Kane County,412,Balance of Kane,Balance of Kane
+25106,106,51.5,73.1,1.42,0.0,0.0,0.0,0.0,6.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.1,0,0,0,0,34342,0,7,0,0,25,KANE,2,East Kane County,5,Eastern Kane County,412,Balance of Kane,Balance of Kane
+25107,107,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,5,Eastern Kane County,412,Balance of Kane,Balance of Kane
+25108,108,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,5,Eastern Kane County,412,Balance of Kane,Balance of Kane
+25109,109,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,34342,0,0,0,0,25,KANE,2,East Kane County,5,Eastern Kane County,412,Balance of Kane,Balance of Kane

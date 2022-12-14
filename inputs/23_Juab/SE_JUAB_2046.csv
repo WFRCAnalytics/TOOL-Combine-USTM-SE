@@ -1,0 +1,128 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+23001,1,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,231,Santaquin - Juab,Balance of Juab
+23002,2,121.8,724.9,5.95,210.1,1.3,182.3,26.4,221.1,0.8,0.5,182.1,0.2,0.6,22.7,1.3,1.9,0.0,0.0,4.5,6.5,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,233,Rocky Ridge,Rocky Ridge
+23003,3,153.2,404.4,2.64,65.7,9.9,11.8,44.0,89.6,6.9,3.0,10.6,1.2,3.5,12.6,10.1,17.8,0.0,0.0,15.8,8.1,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,233,Rocky Ridge,Rocky Ridge
+23004,4,68.7,199.4,2.90,38.8,5.6,8.2,25.0,62.7,3.6,2.1,7.4,0.8,2.4,8.7,5.6,8.3,0.0,0.0,20.3,3.6,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,233,Rocky Ridge,Rocky Ridge
+23005,5,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,232,Rocky Ridge Area,Balance of Juab
+23006,6,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,232,Rocky Ridge Area,Balance of Juab
+23007,7,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,232,Rocky Ridge Area,Balance of Juab
+23008,8,1.9,2.8,1.47,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,232,Rocky Ridge Area,Balance of Juab
+23009,9,79.7,206.3,2.59,0.0,0.0,0.0,0.0,17.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,4.2,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,236,Mona,Mona
+23010,10,59.8,198.3,3.32,11.1,1.1,5.2,4.8,18.3,0.7,0.4,5.0,0.2,0.5,1.7,1.1,1.6,0.0,0.0,4.0,3.2,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,236,Mona,Mona
+23011,11,224.9,694.3,3.09,80.7,1.7,12.1,66.9,106.7,1.1,0.6,2.3,9.8,22.3,40.3,1.7,2.5,0.0,0.0,14.1,11.9,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,236,Mona,Mona
+23012,12,354.8,1018.3,2.87,77.1,19.1,9.7,48.4,136.6,3.4,15.7,7.0,2.7,10.6,24.8,5.2,7.7,0.0,0.0,40.7,18.8,0,0,0,0,73878,323,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,236,Mona,Mona
+23013,13,87.6,336.9,3.84,0.0,0.0,0.0,0.0,10.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.6,4.7,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,236,Mona,Mona
+23014,14,41.9,207.7,4.95,3.3,0.5,0.7,2.1,26.4,0.3,0.2,0.6,0.1,0.2,0.7,0.5,0.7,0.0,0.0,20.9,2.2,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,236,Mona,Mona
+23015,15,12.0,36.3,3.03,0.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,1.1,0.6,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23016,16,13.2,40.1,3.03,0.0,0.0,0.0,0.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,1.7,0.7,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23017,17,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23018,18,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23019,19,12.8,25.8,2.01,0.0,0.0,0.0,0.0,8.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,1.1,0.7,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23020,20,12.1,42.8,3.54,0.0,0.0,0.0,0.0,9.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,2.3,0.6,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23021,21,8.4,25.6,3.03,62.9,6.0,30.4,26.5,65.0,3.8,2.2,7.9,22.5,2.6,9.3,5.9,8.7,0.0,0.0,1.7,0.4,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23022,22,7.8,11.7,1.50,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.4,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23023,23,34.9,78.3,2.24,14.7,1.3,1.9,11.4,31.3,0.8,0.5,1.8,0.2,0.6,2.1,1.3,7.5,12.4,0.0,2.3,1.9,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23024,24,47.9,132.2,2.76,130.1,1.5,121.8,6.8,143.3,1.0,0.6,115.1,6.7,0.7,2.4,1.5,2.2,6.2,0.0,4.5,2.5,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23025,25,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23026,26,5.5,19.3,3.54,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.3,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23027,27,7.7,20.9,2.69,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.4,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23028,28,34.2,115.7,3.39,24.1,3.4,5.8,14.9,26.5,2.1,1.2,4.4,1.4,1.5,5.2,3.3,4.9,0.0,0.0,0.6,1.8,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23029,29,51.8,138.9,2.68,0.0,0.0,0.0,0.0,7.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.1,2.7,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23030,30,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23031,31,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23032,32,8.4,38.5,4.56,0.0,0.0,0.0,0.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,1.1,0.4,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23033,33,7.3,13.8,1.91,0.0,0.0,0.0,0.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.6,0.4,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23034,34,6.8,27.6,4.05,0.0,0.0,0.0,0.0,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.6,0.4,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23035,35,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,234,Mona Area,Mona Area
+23036,36,3.8,9.4,2.47,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.2,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,228,Balance of Juab,Balance of Juab
+23037,37,4.1,13.3,3.22,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,1,Northeast Juab County,228,Balance of Juab,Balance of Juab
+23038,38,4.0,18.4,4.59,1203.2,209.7,374.6,619.0,1273.3,192.8,16.9,371.2,3.3,114.9,35.0,397.4,71.7,0.0,67.0,2.8,0.2,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23039,39,199.0,526.8,2.65,156.6,43.0,24.0,89.7,180.7,23.5,19.4,21.6,2.3,7.1,38.1,20.4,24.1,0.0,0.0,13.6,10.6,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23040,40,102.5,320.2,3.12,12.9,1.5,3.2,8.2,37.0,0.9,0.5,1.9,1.2,2.3,2.3,1.5,2.2,13.1,0.0,5.6,5.4,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23041,41,10.0,32.3,3.22,236.0,25.0,100.1,110.9,240.4,15.8,9.2,96.6,3.5,10.8,38.8,24.7,36.6,0.0,0.0,4.0,0.5,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23042,42,108.2,261.3,2.42,103.8,22.8,16.6,64.4,119.6,18.6,4.2,15.0,1.6,4.9,30.7,12.1,16.7,0.0,0.0,10.2,5.7,0,0,0,0,44804,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23043,43,68.1,134.2,1.97,72.2,25.6,11.5,35.1,82.6,22.6,2.9,10.4,1.1,3.4,12.3,7.8,11.6,0.0,0.0,6.8,3.6,0,0,0,0,65193,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23044,44,222.8,506.4,2.27,208.7,45.7,52.3,110.7,251.7,33.9,11.7,36.1,16.2,7.6,27.4,50.0,25.6,13.1,0.0,18.1,11.8,0,0,0,0,41932,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23045,45,71.5,243.9,3.41,363.4,10.0,14.7,338.7,375.7,6.4,3.7,13.2,1.5,4.3,236.0,83.9,14.5,0.0,0.0,8.5,3.8,0,0,0,0,80312,0,671,804,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23046,46,159.1,437.8,2.75,39.3,2.2,11.6,25.5,55.0,1.4,0.8,2.9,8.7,8.0,3.4,4.4,9.7,0.0,0.0,7.3,8.4,0,0,0,0,43480,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23047,47,13.9,45.4,3.27,26.0,13.2,3.2,9.6,29.0,1.4,11.8,2.9,0.3,0.9,3.4,2.1,3.2,0.0,0.0,2.3,0.7,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23048,48,108.7,303.2,2.79,136.7,20.1,14.7,101.9,151.5,16.4,3.7,13.3,1.5,4.4,15.7,9.9,71.9,0.0,0.0,9.0,5.8,0,0,0,0,55060,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23049,49,62.7,184.0,2.93,329.6,48.3,32.9,248.3,339.7,22.1,26.3,29.1,3.8,105.4,34.4,34.8,73.7,0.0,0.0,6.8,3.3,0,0,0,0,60057,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23050,50,156.6,362.9,2.32,290.7,2.8,30.5,257.4,303.0,1.8,1.0,24.8,5.6,1.2,4.4,2.7,249.1,0.0,0.0,4.0,8.3,0,0,0,0,58187,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23051,51,119.7,281.0,2.35,626.3,4.5,3.1,618.7,637.8,3.8,0.8,2.7,0.3,13.0,467.5,18.7,119.6,0.0,0.0,5.1,6.4,0,0,0,0,51217,319,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23052,52,130.7,329.4,2.52,157.7,89.8,5.8,62.1,168.0,85.2,4.6,5.3,0.6,2.6,6.2,28.7,24.6,0.0,0.0,3.4,6.9,0,0,0,0,51217,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23053,53,108.8,294.4,2.71,85.2,43.4,10.3,31.5,106.0,22.6,20.8,8.5,1.8,2.8,10.1,9.3,9.4,9.3,0.0,5.6,5.8,0,0,0,0,58100,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23054,54,108.2,226.2,2.09,85.0,10.6,14.8,59.5,100.9,7.3,3.3,11.7,3.2,5.4,18.4,22.9,13.0,0.0,0.0,10.2,5.7,0,0,0,0,70722,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23055,55,92.3,239.2,2.59,51.8,7.5,20.2,24.1,61.8,3.3,4.2,19.5,0.7,2.2,8.1,6.1,7.6,0.0,0.0,5.1,4.9,0,0,0,0,70291,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23056,56,268.6,698.1,2.60,192.5,19.2,26.9,146.3,224.2,11.3,7.9,23.6,3.4,7.7,27.8,42.9,67.9,0.0,0.0,17.5,14.2,0,0,0,0,70157,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23057,57,151.2,409.8,2.71,0.0,0.0,0.0,0.0,37.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.8,0.0,9.6,8.0,0,0,0,0,70157,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23058,58,265.8,994.8,3.74,274.2,74.3,73.7,126.2,305.8,14.9,59.4,48.0,25.7,23.5,44.6,24.0,34.1,0.0,0.0,17.5,14.1,0,0,0,0,70157,538,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23059,59,0.0,0.0,0.00,116.6,23.3,8.0,85.2,117.1,3.5,19.9,7.2,0.8,2.4,8.5,5.4,68.9,0.0,0.0,0.6,0.0,0,0,0,0,70157,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23060,60,0.0,0.0,0.00,387.0,95.0,30.4,261.6,388.7,30.6,64.4,27.3,3.1,9.0,174.0,20.3,58.4,0.0,0.0,1.7,0.0,0,0,0,0,70157,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,241,Nephi,Nephi
+23061,61,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23062,62,9.5,38.5,4.05,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,0.5,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23063,63,0.0,0.0,0.00,1.0,0.2,0.2,0.6,1.0,0.1,0.0,0.2,0.0,0.1,0.2,0.1,0.2,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23064,64,9.3,22.3,2.41,0.0,0.0,0.0,0.0,5.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,1.7,0.5,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23065,65,242.2,290.5,1.20,0.0,0.0,0.0,0.0,92.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,76.8,12.8,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23066,66,205.5,629.8,3.06,0.0,0.0,0.0,0.0,69.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.2,10.9,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23067,67,220.9,677.0,3.06,0.0,0.0,0.0,0.0,65.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.3,0.0,44.6,11.7,0,0,0,0,73878,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23068,68,134.4,389.7,2.90,0.0,0.0,0.0,0.0,52.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.7,0.0,27.1,7.1,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23069,69,209.8,574.1,2.74,0.0,0.0,0.0,0.0,73.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,59.3,11.1,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23070,70,22.5,54.0,2.41,0.0,0.0,0.0,0.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,4.5,1.2,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23071,71,24.6,55.9,2.28,51.7,28.9,0.3,22.4,58.3,21.5,7.4,0.3,0.0,0.1,0.4,0.2,21.8,3.1,0.0,2.3,1.3,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23072,72,18.8,82.3,4.38,0.0,0.0,0.0,0.0,16.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.4,0.0,2.8,1.0,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23073,73,24.1,42.2,1.75,16.2,0.5,4.1,11.5,25.4,0.4,0.2,0.7,3.4,2.0,8.3,0.5,0.7,6.2,0.0,1.7,1.3,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23074,74,4.7,15.9,3.39,0.0,0.0,0.0,0.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.6,0.2,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23075,75,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23076,76,18.8,82.3,4.38,6.5,0.7,1.1,4.7,29.0,0.5,0.2,1.0,0.1,1.9,1.2,0.7,1.0,18.7,0.0,2.8,1.0,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23077,77,23.9,86.5,3.61,0.0,0.0,0.0,0.0,10.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,2.8,1.3,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23078,78,258.9,878.7,3.39,0.0,0.0,0.0,0.0,82.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,65.5,13.7,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23079,79,19.0,22.8,1.20,19.1,0.2,0.4,18.6,35.4,0.2,0.1,0.3,0.0,0.1,0.4,0.2,17.8,12.4,0.0,2.8,1.0,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23080,80,290.9,872.5,3.00,27.1,0.3,1.9,24.9,128.1,0.2,0.1,0.3,1.6,0.1,0.4,0.2,24.1,3.1,0.0,82.5,15.4,0,0,0,0,80312,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23081,81,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23082,82,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23083,83,0.0,0.0,0.00,0.0,0.0,0.0,0.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23084,84,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23085,85,0.0,0.0,0.00,38.6,5.5,8.2,24.9,45.4,3.4,2.1,7.4,0.8,2.4,8.6,5.6,8.3,6.2,0.0,0.6,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23086,86,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,2,East Central Juab County,240,Nephi Area,Nephi Area
+23087,87,134.1,300.9,2.24,51.4,3.0,5.4,43.0,74.3,1.9,1.1,4.0,1.4,1.3,28.2,3.0,10.5,0.0,0.0,15.8,7.1,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,257,Levan,Levan
+23088,88,79.9,198.2,2.48,0.0,0.0,0.0,0.0,15.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.3,4.2,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,257,Levan,Levan
+23089,89,173.5,392.7,2.26,46.7,1.6,4.4,40.6,73.4,1.0,0.6,2.1,2.2,0.7,36.0,1.6,2.4,0.0,0.0,17.5,9.2,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,257,Levan,Levan
+23090,90,148.8,367.0,2.47,2.2,0.3,0.5,1.4,27.1,0.2,0.1,0.4,0.0,0.1,0.5,0.3,0.5,0.0,0.0,16.9,7.9,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,257,Levan,Levan
+23091,91,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23092,92,1.9,6.6,3.47,0.0,0.0,0.0,0.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.0,0.1,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23093,93,0.0,0.0,0.00,46.7,2.2,34.7,9.8,52.9,1.4,0.8,34.3,0.3,1.0,3.5,2.2,3.2,6.2,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23094,94,0.0,0.0,0.00,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23095,95,1.9,5.3,2.70,0.0,0.0,0.0,0.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.0,0.1,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23096,96,6.8,8.1,1.20,0.0,0.0,0.0,0.0,7.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.6,0.4,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23097,97,10.6,28.8,2.70,0.0,0.0,0.0,0.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,4.5,0.6,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23098,98,8.8,23.7,2.70,0.0,0.0,0.0,0.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,3.4,0.5,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23099,99,22.3,49.5,2.22,0.0,0.0,0.0,0.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,6.2,1.2,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23100,100,4.5,12.1,2.70,0.0,0.0,0.0,0.0,3.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.6,0.2,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23101,101,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23102,102,5.2,18.1,3.47,0.0,0.0,0.0,0.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,1.1,0.3,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23103,103,6.8,14.4,2.14,0.0,0.0,0.0,0.0,7.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.6,0.4,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23104,104,8.7,35.8,4.14,0.0,0.0,0.0,0.0,7.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,1.1,0.5,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23105,105,1.9,6.6,3.47,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23106,106,16.5,36.0,2.18,0.0,0.0,0.0,0.0,21.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.7,0.0,1.7,0.9,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23107,107,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23108,108,3.8,11.3,2.97,0.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,0.0,0.6,0.2,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,252,Levan Area,Balance of Juab
+23109,109,16.0,71.4,4.47,1.7,0.9,0.2,0.6,3.1,0.1,0.8,0.2,0.0,0.1,0.2,0.1,0.2,0.0,0.0,0.6,0.8,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,228,Balance of Juab,Balance of Juab
+23110,110,14.8,17.8,1.20,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,228,Balance of Juab,Balance of Juab
+23111,111,5.7,17.9,3.14,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.3,0,0,0,0,46795,0,0,0,0,23,JUAB,1,East Juab County,3,Southeast Juab County,228,Balance of Juab,Balance of Juab
+23112,112,453.0,983.8,2.17,174.1,14.7,13.7,145.7,250.6,8.6,6.1,11.6,2.0,3.8,114.7,9.7,17.6,0.0,0.0,52.5,24.0,0,0,0,0,51895,87,55,52,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,230,Eureka,Eureka
+23113,113,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,228,Balance of Juab,Balance of Juab
+23114,114,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,228,Balance of Juab,Balance of Juab
+23115,115,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,228,Balance of Juab,Balance of Juab
+23116,116,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,228,Balance of Juab,Balance of Juab
+23117,117,12.6,28.9,2.29,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.7,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,228,Balance of Juab,Balance of Juab
+23118,118,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,4,Northeast-Central Juab County,228,Balance of Juab,Balance of Juab
+23119,119,1.9,2.8,1.47,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,5,Central Juab County,228,Balance of Juab,Balance of Juab
+23120,120,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,73878,0,0,0,0,23,JUAB,2,West Juab County,5,Central Juab County,228,Balance of Juab,Balance of Juab
+23121,121,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,5,Central Juab County,228,Balance of Juab,Balance of Juab
+23122,122,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,46795,0,0,0,0,23,JUAB,2,West Juab County,5,Central Juab County,228,Balance of Juab,Balance of Juab
+23123,123,1.0,2.4,2.47,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,6,Western Juab County,228,Balance of Juab,Balance of Juab
+23124,124,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,6,Western Juab County,228,Balance of Juab,Balance of Juab
+23125,125,14.9,17.9,1.20,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,6,Western Juab County,228,Balance of Juab,Balance of Juab
+23126,126,11.2,38.8,3.47,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.6,0,0,0,0,51895,0,0,0,0,23,JUAB,2,West Juab County,6,Western Juab County,228,Balance of Juab,Balance of Juab
+23127,127,26.0,68.7,2.64,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,1.4,0,0,0,0,51895,0,9,0,0,23,JUAB,2,West Juab County,6,Western Juab County,228,Balance of Juab,Balance of Juab

@@ -1,0 +1,66 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+33001,1,95.4,204.7,2.15,512.4,177.2,30.9,304.3,525.1,78.1,99.1,13.5,17.4,2.4,85.7,24.8,191.4,0.0,0.0,5.9,6.8,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,13,Garden City,Garden City
+33002,2,69.1,190.6,2.76,50.5,2.8,0.4,47.3,79.9,1.1,1.7,0.1,0.3,0.2,2.3,0.4,44.5,0.0,0.0,24.5,4.9,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,13,Garden City,Garden City
+33003,3,171.9,429.2,2.50,297.5,102.7,2.0,192.9,335.2,23.2,79.5,0.5,1.5,2.9,12.2,6.5,171.3,0.0,0.0,25.5,12.2,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,13,Garden City,Garden City
+33004,4,73.9,90.6,1.23,144.5,20.2,0.9,123.4,169.4,2.8,17.5,0.2,0.7,0.4,5.5,0.8,116.6,0.0,0.0,19.6,5.3,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,13,Garden City,Garden City
+33005,5,76.7,96.5,1.26,74.3,2.1,0.3,71.8,91.5,0.9,1.3,0.1,0.2,0.1,1.7,0.2,69.7,0.0,0.0,11.8,5.5,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,11,Garden City Area,Balance of Rich
+33006,6,2.7,12.7,4.63,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,11,Garden City Area,Balance of Rich
+33007,7,6.7,27.3,4.07,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.5,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,11,Garden City Area,Balance of Rich
+33008,8,52.1,144.8,2.78,25.0,0.5,0.1,24.4,29.7,0.2,0.3,0.0,0.1,1.1,0.4,0.1,22.9,0.0,0.0,1.0,3.7,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,11,Garden City Area,Balance of Rich
+33009,9,34.4,80.6,2.34,3.9,0.9,0.1,2.9,8.3,0.3,0.6,0.0,0.1,0.1,0.7,0.1,2.0,0.0,0.0,2.0,2.5,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,1,Garden City Area,11,Garden City Area,Balance of Rich
+33010,10,7.0,22.0,3.12,16.9,6.0,0.0,10.9,24.8,0.0,6.0,0.0,0.0,0.0,0.0,0.0,10.9,4.5,0.0,2.9,0.5,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33011,11,34.3,72.5,2.11,21.6,21.6,0.0,0.0,43.2,21.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,14.7,2.4,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33012,12,24.6,52.9,2.15,7.1,0.8,0.1,6.1,9.8,0.3,0.5,0.0,0.1,0.1,4.2,0.1,1.8,0.0,0.0,1.0,1.8,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33013,13,33.7,65.5,1.95,0.0,0.0,0.0,0.0,22.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,15.7,2.4,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33014,14,4.2,11.4,2.73,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.3,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33015,15,28.0,103.9,3.71,0.0,0.0,0.0,0.0,9.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,2.9,2.0,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33016,16,45.2,129.6,2.87,48.6,4.5,3.0,41.1,58.7,1.8,2.7,0.1,2.8,0.3,30.4,0.6,9.9,0.0,0.0,6.9,3.2,0,0,0,0,60465,117,122,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33017,17,13.0,37.5,2.89,6.7,0.0,0.0,6.7,9.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.7,0.0,0.0,2.0,0.9,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,25,Laketown,Laketown
+33018,18,10.0,35.1,3.52,11.6,0.0,11.6,0.0,17.8,0.0,0.0,0.0,11.6,0.0,0.0,0.0,0.0,4.5,0.0,1.0,0.7,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,21,Laketown Area,Balance of Rich
+33019,19,2.9,8.4,2.96,4.7,0.3,0.0,4.4,5.9,0.1,0.2,0.0,0.0,0.0,3.8,0.0,0.6,0.0,0.0,1.0,0.2,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,21,Laketown Area,Balance of Rich
+33020,20,12.4,16.9,1.36,0.0,0.0,0.0,0.0,7.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,2.0,0.9,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,21,Laketown Area,Balance of Rich
+33021,21,4.0,11.9,2.96,0.0,0.0,0.0,0.0,8.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,1.0,0.3,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,21,Laketown Area,Balance of Rich
+33022,22,10.0,25.9,2.58,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,2,Laketown Area,21,Laketown Area,Balance of Rich
+33023,23,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,3,Bear Lake Area,10,Bear Lake Area,Balance of Rich
+33024,24,3.1,8.1,2.58,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,3,Bear Lake Area,10,Bear Lake Area,Balance of Rich
+33025,25,2.6,4.8,1.84,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.2,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,3,Bear Lake Area,10,Bear Lake Area,Balance of Rich
+33026,26,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,3,Bear Lake Area,10,Bear Lake Area,Balance of Rich
+33027,27,9.9,11.9,1.20,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0,0,0,0,60465,0,0,0,0,33,RICH,1,Northwest Rich County,3,Bear Lake Area,10,Bear Lake Area,Balance of Rich
+33028,28,7.2,18.9,2.64,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0,0,0,0,60465,0,0,0,0,33,RICH,2,Central Rich County,4,North-Central Rich County,9,Balance of Rich,Balance of Rich
+33029,29,1.8,3.3,1.84,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,60465,0,0,0,0,33,RICH,2,Central Rich County,4,North-Central Rich County,9,Balance of Rich,Balance of Rich
+33030,30,8.3,29.0,3.52,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0,0,0,0,60465,0,0,0,0,33,RICH,2,Central Rich County,4,North-Central Rich County,9,Balance of Rich,Balance of Rich
+33031,31,3.0,17.4,5.75,0.0,0.0,0.0,0.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.2,0,0,0,0,54356,0,0,0,0,33,RICH,2,Central Rich County,4,North-Central Rich County,9,Balance of Rich,Balance of Rich
+33032,32,4.6,12.3,2.68,8.5,2.0,0.2,6.3,8.8,0.7,1.2,0.0,0.2,0.1,1.5,0.3,4.4,0.0,0.0,0.0,0.3,0,0,0,0,54356,0,0,0,0,33,RICH,2,Central Rich County,5,South-Central Rich County,9,Balance of Rich,Balance of Rich
+33033,33,24.7,94.1,3.81,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,0,0,0,0,54356,0,0,0,0,33,RICH,2,Central Rich County,5,South-Central Rich County,9,Balance of Rich,Balance of Rich
+33034,34,68.5,197.1,2.88,13.3,0.7,0.1,12.6,31.9,0.3,0.4,0.0,0.1,0.0,3.9,0.1,8.5,0.0,0.0,13.7,4.9,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,46,Randolph,Randolph
+33035,35,56.5,71.1,1.26,42.7,4.5,1.7,36.5,58.1,1.8,2.7,0.1,1.6,0.3,24.6,1.8,9.8,4.5,0.0,6.9,4.0,0,0,0,0,54356,120,0,139,0,33,RICH,3,East Rich County,6,Randolph Area,46,Randolph,Randolph
+33036,36,100.4,295.7,2.94,147.4,14.4,1.5,131.5,187.2,11.2,3.2,0.2,1.4,0.3,104.1,0.7,26.4,0.0,13.0,19.6,7.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,46,Randolph,Randolph
+33037,37,2.7,7.9,2.96,0.0,0.0,0.0,0.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.0,0.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33038,38,3.4,10.1,2.96,0.0,0.0,0.0,0.0,8.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,1.0,0.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33039,39,9.8,26.3,2.68,0.0,0.0,0.0,0.0,10.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,2.9,0.7,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33040,40,7.2,8.6,1.20,0.0,0.0,0.0,0.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,1.0,0.5,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33041,41,4.6,16.2,3.52,0.0,0.0,0.0,0.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,1.0,0.3,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33042,42,17.1,58.7,3.44,0.0,0.0,0.0,0.0,19.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.6,0.0,4.9,1.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33043,43,29.0,70.9,2.44,4.3,0.5,0.1,3.7,21.5,0.2,0.3,0.0,0.1,2.2,0.4,0.1,1.1,7.3,0.0,7.8,2.1,0,0,0,0,60465,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33044,44,24.4,66.2,2.71,0.0,0.0,0.0,0.0,47.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.2,0.0,8.8,1.7,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33045,45,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33046,46,18.9,73.8,3.90,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33047,47,15.5,41.5,2.68,0.0,0.0,0.0,0.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,2.9,1.1,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33048,48,10.6,28.8,2.73,0.0,0.0,0.0,0.0,8.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,2.9,0.8,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,6,Randolph Area,22,Randolph Area,Balance of Rich
+33049,49,27.3,87.4,3.20,29.9,0.6,1.2,28.1,38.6,0.2,0.4,0.0,1.2,10.4,3.7,0.1,14.0,0.0,0.0,6.9,1.9,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,58,Woodruff,Woodruff
+33050,50,32.0,56.9,1.78,17.0,2.5,6.5,8.0,22.3,1.0,1.5,0.1,6.4,0.2,2.0,0.3,5.5,0.0,0.0,2.9,2.3,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,58,Woodruff,Woodruff
+33051,51,5.3,14.7,2.75,0.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.4,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,58,Woodruff,Woodruff
+33052,52,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33053,53,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33054,54,2.6,7.8,2.96,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33055,55,4.0,7.4,1.84,13.5,10.1,0.2,3.2,19.3,8.0,2.1,0.0,0.1,0.1,0.8,0.1,2.2,4.5,0.0,1.0,0.3,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33056,56,4.0,4.7,1.20,2.3,0.0,2.3,0.0,8.1,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,5.4,0.0,0.0,0.3,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33057,57,2.2,5.5,2.52,0.0,0.0,0.0,0.0,4.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,0.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33058,58,7.9,24.5,3.10,0.0,0.0,0.0,0.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0,0.6,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33059,59,16.7,41.0,2.46,0.0,0.0,0.0,0.0,11.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,0.0,2.9,1.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33060,60,2.9,8.4,2.96,0.0,0.0,0.0,0.0,12.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.9,0.0,1.0,0.2,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33061,61,10.1,28.1,2.77,0.0,0.0,0.0,0.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.7,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33062,62,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,0.0,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,57,Woodruff Area,Balance of Rich
+33063,63,1.0,3.3,3.33,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,9,Balance of Rich,Balance of Rich
+33064,64,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,9,Balance of Rich,Balance of Rich
+33065,65,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,54356,0,0,0,0,33,RICH,3,East Rich County,7,Woodruff Area,9,Balance of Rich,Balance of Rich

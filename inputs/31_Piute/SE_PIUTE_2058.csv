@@ -1,0 +1,85 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+31001,1,58.6,82.1,1.40,20.5,13.7,6.9,0.0,24.8,13.7,0.0,0.0,6.9,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.2,0,0,0,0,38316,30,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31002,2,19.2,35.8,1.87,0.6,0.6,0.0,0.0,3.1,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.8,0.7,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31003,3,16.3,53.7,3.29,0.0,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.6,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31004,4,43.6,81.1,1.86,8.1,8.1,0.0,0.0,11.1,7.1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,1.7,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31005,5,31.7,40.3,1.27,18.2,0.0,0.0,18.2,22.1,0.0,0.0,0.0,0.0,0.0,10.2,0.0,8.0,0.0,0.0,2.7,1.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31006,6,11.1,19.2,1.74,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.4,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31007,7,2.4,6.2,2.58,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31008,8,11.1,45.2,4.09,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.4,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31009,9,6.5,7.8,1.20,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31010,10,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31011,11,15.5,18.6,1.20,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31012,12,2.9,6.4,2.24,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,356,Marysvale,Marysvale
+31013,13,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,358,Marysvale Area,Balance of Piute
+31014,14,3.5,7.3,2.12,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,358,Marysvale Area,Balance of Piute
+31015,15,3.5,7.3,2.12,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,358,Marysvale Area,Balance of Piute
+31016,16,9.9,19.4,1.96,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.4,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,349,Balance of Piute,Balance of Piute
+31017,17,4.0,6.0,1.48,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,1,Northwest Piute County,349,Balance of Piute,Balance of Piute
+31018,18,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,80,79,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31019,19,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31020,20,4.2,5.0,1.20,55.8,0.0,2.6,53.2,56.5,0.0,0.0,0.0,2.6,0.0,53.2,0.0,0.0,0.0,0.0,0.5,0.2,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31021,21,2.9,5.8,2.02,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31022,22,9.6,21.9,2.27,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.4,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31023,23,8.8,21.2,2.42,7.4,0.0,0.0,7.4,7.9,0.0,0.0,0.0,0.0,0.0,5.4,2.0,0.0,0.0,0.0,0.2,0.3,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31024,24,35.4,120.6,3.41,20.2,6.5,0.0,13.7,21.7,6.5,0.0,0.0,0.0,0.0,13.7,0.0,0.0,0.0,0.0,0.2,1.3,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31025,25,17.7,36.3,2.05,10.2,0.0,0.0,10.2,12.1,0.0,0.0,0.0,0.0,0.0,10.2,0.0,0.0,0.0,0.0,1.1,0.7,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31026,26,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31027,27,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31028,28,7.0,8.5,1.20,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.3,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31029,29,18.2,21.9,1.20,17.8,16.9,0.3,0.6,20.1,16.9,0.1,0.0,0.3,0.0,0.5,0.0,0.1,0.0,0.0,1.6,0.7,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31030,30,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31031,31,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31032,32,2.3,2.8,1.20,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31033,33,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,370,Junction,Junction
+31034,34,14.3,25.4,1.78,0.0,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.5,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,372,Kingston,Kingston
+31035,35,10.3,16.1,1.55,10.7,0.0,10.7,0.0,11.8,0.0,0.0,0.0,10.7,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.4,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,372,Kingston,Kingston
+31036,36,32.5,96.0,2.96,0.0,0.0,0.0,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,1.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,372,Kingston,Kingston
+31037,37,7.1,8.5,1.20,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.3,0,0,0,0,38316,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,372,Kingston,Kingston
+31038,38,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31039,39,8.1,21.2,2.61,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.3,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31040,40,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31041,41,17.4,27.7,1.59,12.3,0.1,11.9,0.3,23.8,0.1,0.0,0.0,11.9,0.0,0.3,0.0,0.0,9.1,0.0,1.6,0.7,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31042,42,41.7,149.0,3.58,36.4,18.2,0.0,18.2,47.8,9.7,8.5,0.0,0.0,0.0,0.0,0.0,18.2,9.1,0.0,0.7,1.6,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31043,43,31.4,39.3,1.25,1.9,0.1,1.3,0.5,5.3,0.1,0.0,1.2,0.1,0.0,0.3,0.0,0.2,0.0,0.0,2.3,1.2,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31044,44,0.0,0.0,0.00,0.0,0.0,0.0,0.0,27.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.4,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31045,45,71.8,152.9,2.13,77.8,9.8,1.7,66.3,81.6,0.0,9.8,0.0,1.7,3.9,22.0,0.0,40.4,0.0,0.0,1.1,2.7,0,0,0,0,48161,90,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31046,46,8.8,19.5,2.23,0.0,0.0,0.0,0.0,18.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.3,0.0,0.2,0.3,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31047,47,0.9,1.1,1.20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31048,48,5.8,12.2,2.10,0.0,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.2,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31049,49,5.9,17.3,2.95,0.0,0.0,0.0,0.0,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.6,0.0,0.0,0.2,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31050,50,20.9,72.3,3.46,51.6,0.0,51.6,0.0,54.0,0.0,0.0,0.0,51.6,0.0,0.0,0.0,0.0,0.0,0.0,1.6,0.8,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31051,51,0.0,0.0,0.00,16.5,0.0,7.4,9.1,16.5,0.0,0.0,0.8,6.6,9.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31052,52,19.7,49.7,2.52,0.0,0.0,0.0,0.0,16.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.7,0.0,1.6,0.8,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31053,53,18.7,27.8,1.49,0.0,0.0,0.0,0.0,11.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.1,0.0,1.4,0.7,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31054,54,3.2,7.1,2.24,0.0,0.0,0.0,0.0,46.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.7,0.0,0.5,0.1,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,374,Circleville,Circleville
+31055,55,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31056,56,0.9,1.1,1.20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31057,57,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31058,58,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31059,59,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31060,60,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31061,61,4.0,8.9,2.20,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31062,62,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31063,63,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31064,64,0.9,1.4,1.48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31065,65,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,373,Circleville Area,Balance of Piute
+31066,66,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,349,Balance of Piute,Balance of Piute
+31067,67,3.5,8.5,2.44,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,48161,0,0,0,0,31,PIUTE,1,West Piute County,2,Southwest Piute County,349,Balance of Piute,Balance of Piute
+31068,68,2.5,6.0,2.44,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31069,69,3.0,8.7,2.92,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31070,70,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31071,71,4.0,7.9,1.96,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31072,72,4.0,8.9,2.20,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31073,73,2.5,8.4,3.40,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31074,74,2.5,8.4,3.40,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31075,75,4.7,5.6,1.20,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31076,76,2.5,8.4,3.40,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31077,77,12.8,25.5,2.00,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.5,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31078,78,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31079,79,16.9,36.3,2.15,0.0,0.0,0.0,0.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.6,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31080,80,3.5,6.2,1.80,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31081,81,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,3,Northeast Piute County,353,Koosharem Area - Piute,Balance of Piute
+31082,82,6.4,29.1,4.55,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,4,Southeast Piute County,349,Balance of Piute,Balance of Piute
+31083,83,11.3,33.0,2.92,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,4,Southeast Piute County,349,Balance of Piute,Balance of Piute
+31084,84,9.9,21.8,2.20,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.4,0,0,0,0,38316,0,0,0,0,31,PIUTE,2,East Piute County,4,Southeast Piute County,349,Balance of Piute,Balance of Piute

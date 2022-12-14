@@ -1,0 +1,94 @@
+;CO_TAZID,Index,TOTHH,HHPOP,HHSIZE,TOTEMP,RETEMP,INDEMP,OTHEMP,ALLEMP,RETL,FOOD,MANU,WSLE,OFFI,GVED,HLTH,OTHR,FM_AGRI,FM_MING,FM_CONS,HBJ,SEC_HOME,CABIN,CONDO,HOTEL,AVGINCOME,Enrol_Elem,Enrol_Midl,Enrol_High,Sub_Area,CO_FIPS,CO_NAME,DISTLRG,DLRG_NAME,DISTMED,DMED_NAME,DISTSML,DSML_NAME,CITY_NAME
+29001,1,48.6,139.8,2.87,0.0,0.0,0.0,0.0,10.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.2,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29002,2,111.9,418.5,3.74,56.9,0.0,0.0,56.9,81.3,0.0,0.0,0.0,0.0,0.0,0.0,56.9,0.0,0.0,0.0,19.3,5.1,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29003,3,49.6,170.9,3.44,0.0,0.0,0.0,0.0,10.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.2,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29004,4,99.2,355.4,3.58,56.5,0.0,0.0,56.5,86.9,0.0,0.0,0.0,0.0,0.0,0.0,21.1,35.4,8.8,0.0,17.1,4.5,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29005,5,0.0,0.0,0.00,0.0,0.0,0.0,0.0,21.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.2,0.0,0.0,0.0,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29006,6,24.3,64.1,2.64,222.2,43.7,3.8,174.7,228.9,43.7,0.0,0.0,3.8,110.0,0.0,0.0,64.7,0.0,0.0,5.7,1.1,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29007,7,7.8,28.2,3.62,244.8,137.1,28.9,78.8,248.6,137.1,0.0,28.9,0.0,10.9,0.0,0.0,68.0,0.0,0.0,3.4,0.4,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29008,8,11.7,35.0,2.99,122.1,122.1,0.0,0.0,126.0,122.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.5,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29009,9,167.3,404.9,2.42,239.0,76.8,1.3,160.9,276.1,36.8,39.9,1.3,0.0,5.7,27.3,6.6,121.2,0.0,0.0,29.6,7.6,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29010,10,17.5,36.9,2.11,3.8,3.8,0.0,0.0,8.0,0.0,3.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.8,0,0,0,0,91529,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29011,11,121.6,468.0,3.85,14.4,0.0,1.2,13.2,40.4,0.0,0.0,0.0,1.2,3.1,10.0,0.0,0.0,0.0,0.0,20.5,5.5,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29012,12,65.2,185.5,2.85,386.1,0.0,0.0,386.1,403.8,0.0,0.0,0.0,0.0,36.7,213.0,37.0,99.4,0.0,0.0,14.8,2.9,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29013,13,78.8,264.1,3.35,29.6,0.0,0.0,29.6,46.9,0.0,0.0,0.0,0.0,29.6,0.0,0.0,0.0,0.0,0.0,13.6,3.6,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29014,14,40.9,126.2,3.09,314.2,91.5,35.2,187.5,326.3,20.3,71.2,0.0,35.2,0.0,0.0,15.4,172.1,0.0,0.0,10.2,1.8,0,0,0,0,82509,0,560,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29015,15,81.7,264.1,3.23,18.5,0.0,0.0,18.5,35.9,0.0,0.0,0.0,0.0,18.5,0.0,0.0,0.0,0.0,0.0,13.6,3.7,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29016,16,0.0,0.0,0.00,98.0,0.0,0.0,98.0,99.2,0.0,0.0,0.0,0.0,0.0,98.0,0.0,0.0,0.0,0.0,1.1,0.0,0,0,0,0,82706,0,0,994,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29017,17,31.1,123.3,3.96,192.8,0.0,0.0,192.8,201.0,0.0,0.0,0.0,0.0,0.0,192.8,0.0,0.0,0.0,0.0,6.8,1.4,0,0,0,0,82706,593,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29018,18,102.1,391.3,3.83,41.8,23.3,0.0,18.6,63.5,23.3,0.0,0.0,0.0,0.0,0.0,5.0,13.5,0.0,0.0,17.1,4.6,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29019,19,61.3,176.7,2.88,0.9,0.0,0.9,0.0,22.7,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,8.8,0.0,10.2,2.8,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29020,20,72.0,258.3,3.59,12.3,0.0,0.0,12.3,27.0,0.0,0.0,0.0,0.0,3.1,0.0,1.4,7.7,0.0,0.0,11.4,3.3,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29021,21,18.5,66.0,3.57,0.0,0.0,0.0,0.0,4.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.4,0.8,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,101,Morgan,Morgan
+29022,22,26.3,74.8,2.85,0.0,0.0,0.0,0.0,5.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,1.2,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29023,23,7.8,25.2,3.24,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.4,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29024,24,13.6,43.7,3.21,7.3,0.0,0.0,7.3,14.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,4.4,0.0,2.3,0.6,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29025,25,21.4,77.7,3.63,0.0,0.0,0.0,0.0,13.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.8,0.0,3.4,1.0,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29026,26,23.3,86.4,3.70,0.0,0.0,0.0,0.0,30.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,3.4,1.1,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Balance of Morgan
+29027,27,12.6,44.7,3.53,7.3,0.0,0.0,7.3,14.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.3,4.4,0.0,2.3,0.6,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29028,28,10.7,22.3,2.09,0.0,0.0,0.0,0.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.5,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Balance of Morgan
+29029,29,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Balance of Morgan
+29030,30,18.5,66.0,3.57,0.0,0.0,0.0,0.0,8.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.4,0.0,3.4,0.8,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29031,31,28.2,79.6,2.82,0.0,0.0,0.0,0.0,8.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,4.5,1.3,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29032,32,0.0,0.0,0.00,7.9,7.9,0.0,0.0,7.9,7.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29033,33,22.4,63.1,2.82,0.9,0.0,0.9,0.0,11.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,5.7,0.0,3.4,1.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29034,34,0.0,0.0,0.00,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29035,35,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29036,36,4.9,15.5,3.19,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.2,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,1,Morgan City,99,Morgan Area,Morgan
+29037,37,1.0,3.9,3.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29038,38,101.2,351.5,3.47,80.8,0.0,0.0,80.8,103.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80.8,1.5,0.0,17.1,4.6,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29039,39,232.5,660.3,2.84,63.7,0.0,4.5,59.1,114.3,0.0,0.0,0.0,4.5,5.8,0.0,9.5,43.8,1.5,0.0,38.7,10.5,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29040,40,71.0,212.7,2.99,39.3,20.2,2.1,17.0,56.5,20.2,0.0,0.0,2.1,5.5,0.0,11.5,0.0,1.5,0.0,12.5,3.2,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29041,41,562.3,2347.0,4.17,470.3,8.7,186.3,275.3,705.4,8.7,0.0,57.4,128.9,79.0,24.0,17.1,155.2,113.0,0.0,96.7,25.4,0,0,0,0,114217,539,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29042,42,33.1,81.6,2.47,10.2,0.0,10.2,0.0,19.6,0.0,0.0,5.5,4.6,0.0,0.0,0.0,0.0,2.2,0.0,5.7,1.5,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29043,43,16.5,27.2,1.64,158.8,0.0,0.0,158.8,164.0,0.0,0.0,0.0,0.0,99.0,0.0,0.0,59.7,0.0,0.0,4.5,0.7,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29044,44,123.6,508.8,4.12,64.7,0.0,1.1,63.6,90.7,0.0,0.0,0.0,1.1,0.0,13.9,13.5,36.2,0.0,0.0,20.5,5.6,0,0,0,0,114217,0,508,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29045,45,0.0,0.0,0.00,1.8,0.0,1.8,0.0,1.8,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29046,46,0.0,0.0,0.00,8.8,0.0,8.8,0.0,11.0,0.0,0.0,0.0,8.8,0.0,0.0,0.0,0.0,2.2,0.0,0.0,0.0,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29047,47,17.5,63.1,3.60,7.4,0.0,0.0,7.4,16.0,0.0,0.0,0.0,0.0,7.4,0.0,0.0,0.0,4.4,0.0,3.4,0.8,0,0,0,0,100226,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,87,Mountain Green Area,Mountain Green Area
+29048,48,44.8,104.9,2.34,15.0,0.0,15.0,0.0,33.8,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,8.8,0.0,8.0,2.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29049,49,8.8,22.3,2.55,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.4,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29050,50,142.0,558.4,3.93,291.1,0.0,1.1,289.9,323.6,0.0,0.0,0.0,1.1,2.9,0.0,0.0,287.0,0.0,0.0,26.2,6.4,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29051,51,79.8,333.1,4.18,3.7,0.0,0.0,3.7,34.2,0.0,0.0,0.0,0.0,3.7,0.0,0.0,0.0,13.3,0.0,13.6,3.6,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29052,52,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29053,53,26.3,84.5,3.22,0.0,0.0,0.0,0.0,5.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,1.2,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29054,54,39.9,109.7,2.75,0.0,0.0,0.0,0.0,21.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.3,0.0,6.8,1.8,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29055,55,65.2,210.7,3.23,7.4,0.0,0.0,7.4,20.5,0.0,0.0,0.0,0.0,3.1,0.0,4.3,0.0,0.0,0.0,10.2,2.9,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29056,56,37.0,110.7,2.99,3.7,0.0,0.0,3.7,11.1,0.0,0.0,0.0,0.0,3.7,0.0,0.0,0.0,0.0,0.0,5.7,1.7,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29057,57,15.6,38.8,2.50,0.0,0.0,0.0,0.0,11.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.8,0.0,2.3,0.7,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29058,58,29.2,95.2,3.26,6.0,0.0,2.9,3.1,20.7,0.0,0.0,2.9,0.0,3.1,0.0,0.0,0.0,8.8,0.0,4.5,1.3,0,0,0,0,75043,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29059,59,31.1,95.2,3.06,0.0,0.0,0.0,0.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,1.4,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,95,Morgan Area - North,Balance of Morgan
+29060,60,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,82,Northwest Mountains,Balance of Morgan
+29061,61,3.9,14.6,3.74,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.2,0,0,0,0,96111,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,82,Northwest Mountains,Balance of Morgan
+29062,62,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,82,Northwest Mountains,Balance of Morgan
+29063,63,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,2,Northwest Morgan County,82,Northwest Mountains,Balance of Morgan
+29064,64,47.7,153.4,3.22,52.6,0.0,45.1,7.4,62.7,0.0,0.0,0.0,45.1,7.4,0.0,0.0,0.0,0.0,0.0,8.0,2.2,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29065,65,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29066,66,22.4,99.0,4.43,0.0,0.0,0.0,0.0,13.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.8,0.0,3.4,1.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29067,67,18.5,55.4,2.99,4.8,4.8,0.0,0.0,37.2,4.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.3,0.0,3.4,0.8,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29068,68,0.0,0.0,0.00,0.0,0.0,0.0,0.0,4.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.4,0.0,0.0,0.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29069,69,12.6,36.9,2.92,0.0,0.0,0.0,0.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.6,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29070,70,15.6,51.5,3.31,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.7,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29071,71,4.9,9.7,2.00,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.2,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29072,72,16.5,51.5,3.11,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.7,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29073,73,19.5,56.3,2.89,3.7,0.0,0.0,3.7,16.8,0.0,0.0,0.0,0.0,3.7,0.0,0.0,0.0,8.8,0.0,3.4,0.9,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29074,74,58.4,175.8,3.01,13.2,10.4,0.0,2.8,30.5,10.4,0.0,0.0,0.0,2.8,0.0,0.0,0.0,4.4,0.0,10.2,2.6,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29075,75,11.7,50.5,4.33,14.7,0.0,0.0,14.7,21.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.7,4.4,0.0,2.3,0.5,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29076,76,22.4,71.9,3.21,0.0,0.0,0.0,0.0,8.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.4,0.0,3.4,1.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29077,77,1.9,5.8,2.99,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29078,78,2.9,14.6,4.99,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29079,79,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29080,80,0.0,0.0,0.00,27.7,3.7,0.0,24.0,27.7,3.7,0.0,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29081,81,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,105,Morgan Area - South,Balance of Morgan
+29082,82,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,107,Southwest Mountains,Balance of Morgan
+29083,83,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,107,Southwest Mountains,Balance of Morgan
+29084,84,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,107,Southwest Mountains,Balance of Morgan
+29085,85,3.9,3.9,1.00,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.2,0,0,0,0,80213,0,0,0,0,29,MORGAN,1,Morgan County,3,Southwest Morgan County,107,Southwest Mountains,Balance of Morgan
+29086,86,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29087,87,0.0,0.0,0.00,128.9,0.0,128.9,0.0,130.0,0.0,0.0,126.9,1.9,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29088,88,41.8,161.2,3.85,9.8,0.0,0.0,9.8,18.5,0.0,0.0,0.0,0.0,0.0,0.0,2.7,7.2,0.0,0.0,6.8,1.9,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29089,89,0.0,0.0,0.00,129.8,60.1,0.0,69.7,131.0,0.0,60.1,0.0,0.0,0.0,0.0,0.0,69.7,0.0,0.0,1.1,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29090,90,6.8,25.2,3.71,0.0,0.0,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.3,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29091,91,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29092,92,0.0,0.0,0.00,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,82706,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
+29093,93,12.6,41.8,3.30,0.0,0.0,0.0,0.0,2.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.6,0,0,0,0,114217,0,0,0,0,29,MORGAN,1,Morgan County,4,Eastern Mountains,67,West Mountains,Balance of Morgan
